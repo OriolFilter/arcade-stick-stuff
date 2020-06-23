@@ -18,20 +18,18 @@
 }
 /* Stolen from http://www.zak123.com/u/3buttons.css */
 /* Here comes my things */
-.a {
+.fight-stick .a {
   background-color:pink;
 }
-.x {
+.fight-stick .x {
   background-color:blue;
 }
-.y {
+.fight-stick .y {
   background-color:green;
 }
- .trigger-button.right {
+.fight-stick .trigger-button.right {
   background-color: orange;
- }
-  .bumper.right {
+}
+.fight-stick .bumper.right {
   background-color: red;
- }
-
-//.bumper
+}
